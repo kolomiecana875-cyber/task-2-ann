@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(188, 189, 191);
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.title {
+  font-weight: 400;
+}
+.cards p {
+  display: inline-block;
+  background-color: rgb(220, 222, 223);
+  padding: 10px;
+  font-size: 22px;
+  margin: 0;
+  margin-right: 8px;
+}
+
+.card-red {
+  color: rgb(255, 0, 0);
+}
